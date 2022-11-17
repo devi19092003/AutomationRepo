@@ -1,104 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfc14fdd-9b47-46cc-a014-713b868d71ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/ArrayDeclarations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/ArrayLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/FindingArrayClasses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/TwoDimensionalArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/DoWhileLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/NestedForLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/SimpleForLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/Statements/BreakStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/Statements/ContinueStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/UseOfLoops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/WhileLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/META-INF/Automation.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Boolean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/ElseIfStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/IfElseStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/NestedIfStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/SimpleIfStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/DataTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Identifiers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Keywords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/BackslashLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/BooleanLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/CharacterLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/FloatPointLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/IntegralLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/StringLiterals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ArithmeticOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/BitwiseOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ConcatenationOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/DecrementExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/IncrementExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/LogicalOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/LogicalOperatorsExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/RelationalOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ShiftOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/TernaryOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/InstanceVariableExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/LocalVariableExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/StaticBlockExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/StaticKeyword.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/com/company/Boolean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Automation/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FindingArrayClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/NestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/SimpleForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Statements/BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Statements/ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/UseOfLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/ElseIfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/IfElseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/NestedIfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/SimpleIfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Keywords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/BackslashLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/BooleanLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/CharacterLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/FloatPointLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/IntegralLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/StringLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/BitwiseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ConcatenationOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/DecrementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/IncrementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/LogicalOperatorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ShiftOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableTypes/InstanceVariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableTypes/LocalVariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableTypes/StaticBlockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableTypes/StaticKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/DefaultAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/PrivateAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/ProtectedAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cfc14fdd-9b47-46cc-a014-713b868d71ae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
