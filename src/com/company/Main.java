@@ -7,5 +7,8 @@ public class Main {
         System.out.println("hellooooooo");
         System.out.println("hellooooooo");
         System.out.println("hellooooooo");
+
+        System.out.println("hellooooooo");
+        System.out.println("hellooooooo");
     }
 }
