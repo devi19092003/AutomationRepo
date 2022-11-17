@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfc14fdd-9b47-46cc-a014-713b868d71ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/ArrayDeclarations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/ArrayLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/FindingArrayClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Arrays/TwoDimensionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/DoWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/NestedForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/SimpleForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/Statements/BreakStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/Statements/ContinueStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/UseOfLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Loops/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/META-INF/Automation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Boolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/ElseIfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/IfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/NestedIfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/ConditionalStatements/SimpleIfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/DataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Identifiers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Keywords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/BackslashLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/BooleanLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/CharacterLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/FloatPointLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/IntegralLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/StringLiterals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/Literals/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ArithmeticOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/BitwiseOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ConcatenationOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/DecrementExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/IncrementExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/LogicalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/LogicalOperatorsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/RelationalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/ShiftOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/Tokens/operators/TernaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/InstanceVariableExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/LocalVariableExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/StaticBlockExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/VariableTypes/StaticKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/com/company/Boolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Automation/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindingArrayClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/SimpleForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Statements/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Statements/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/UseOfLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/ElseIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/NestedIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/ConditionalStatements/SimpleIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Keywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/BackslashLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/BooleanLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/CharacterLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/FloatPointLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/IntegralLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/StringLiterals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/Literals/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/BitwiseOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ConcatenationOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/DecrementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/IncrementExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/LogicalOperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/ShiftOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tokens/operators/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableTypes/InstanceVariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableTypes/LocalVariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableTypes/StaticBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableTypes/StaticKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/DefaultAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/PrivateAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessmodifiers/ProtectedAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Tokens/Test.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Keywords.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Identifiers.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/IntegralLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/FloatPointLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/CharacterLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/StringLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/BooleanLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/BackslashLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/DataTypes.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/IncrementExample.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/DecrementExample.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/ArithmeticOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/ShiftOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/BitwiseOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/RelationalOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/LogicalOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/ConcatenationOperators.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/TernaryOperator.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/ConditionalStatements/SimpleIfStatement.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/ConditionalStatements/IfElseStatement.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/ConditionalStatements/NestedIfStatement.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/operators/LogicalOperatorsExample.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/ConditionalStatements/ElseIfStatement.java" />
+        <option value="$PROJECT_DIR$/src/Loops/UseOfLoops.java" />
+        <option value="$PROJECT_DIR$/src/Loops/SimpleForLoop.java" />
+        <option value="$PROJECT_DIR$/src/Loops/NestedForLoop.java" />
+        <option value="$PROJECT_DIR$/src/Loops/DoWhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/Loops/WhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/Loops/Statements/BreakStatement.java" />
+        <option value="$PROJECT_DIR$/src/Loops/Statements/ContinueStatement.java" />
+        <option value="$PROJECT_DIR$/src/Tokens/Literals/Test.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ArrayLiterals.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/FindingArrayClasses.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/TwoDimensionalArray.java" />
+        <option value="$PROJECT_DIR$/src/VariableTypes/InstanceVariableExample.java" />
+        <option value="$PROJECT_DIR$/src/VariableTypes/StaticKeyword.java" />
+        <option value="$PROJECT_DIR$/src/VariableTypes/StaticBlockExample.java" />
+        <option value="$PROJECT_DIR$/src/accessmodifiers/DefaultAccessModifier.java" />
+        <option value="$PROJECT_DIR$/src/VariableTypes/LocalVariableExample.java" />
+        <option value="$PROJECT_DIR$/src/accessmodifiers/ProtectedAccessModifier.java" />
+        <option value="$PROJECT_DIR$/src/accessmodifiers/PrivateAccessModifier.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LocalVariableExample">
+    <configuration name="FindingArrayClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FindingArrayClasses" />
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceVariableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableTypes.InstanceVariableExample" />
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VariableTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalVariableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableTypes.LocalVariableExample" />
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VariableTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableTypes.StaticBlockExample" />
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VariableTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDimensionalArray" />
+      <module name="Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocalVariableExample" />
+        <item itemvalue="Application.StaticBlockExample" />
+        <item itemvalue="Application.InstanceVariableExample" />
+        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.FindingArrayClasses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfc14fdd-9b47-46cc-a014-713b868d71ae" name="Default Changelist" comment="" />
+      <created>1667216817382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667216817382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27364865" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4589443" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24391893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Keywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Identifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/IntegralLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/FloatPointLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2850">
+          <caret line="129" column="6" lean-forward="true" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/CharacterLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/StringLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/BooleanLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.14/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/BackslashLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/DataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/IncrementExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/DecrementExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/ArithmeticOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/ShiftOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/BitwiseOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/ConcatenationOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/LogicalOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/RelationalOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/ConditionalStatements/SimpleIfStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/TernaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/ConditionalStatements/IfElseStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/ConditionalStatements/ElseIfStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/operators/LogicalOperatorsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/ConditionalStatements/NestedIfStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/UseOfLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/SimpleForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/NestedForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/WhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/DoWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/Statements/BreakStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops/Statements/ContinueStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tokens/Literals/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ArrayLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/FindingArrayClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2242">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/TwoDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariableTypes/InstanceVariableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariableTypes/StaticKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariableTypes/StaticBlockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariableTypes/LocalVariableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/accessmodifiers/ProtectedAccessModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/accessmodifiers/PrivateAccessModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/accessmodifiers/DefaultAccessModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
