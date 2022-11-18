@@ -10,6 +10,7 @@ public class Main {
         System.out.println("jjj");
 
         System.out.println("hiiii");
+        System.out.println("new package");
 
     }
 }
