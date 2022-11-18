@@ -6,8 +6,7 @@ public class Main {
 	// write your code here
 
         System.out.println("hi");
-        System.out.println("new package");
-        System.out.println("making changes");
+    
 
     }
 }
